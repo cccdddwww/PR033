@@ -1,0 +1,204 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-7 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: 最后的链结失败: 不支持的操作
+collect2: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-7 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+/tmp/ccjjhamY.s: Assembler messages:
+/tmp/ccjjhamY.s: 致命错误： can't write 142 bytes to section .text of CMakeCCompilerId.o: '不支持的操作'
+/tmp/ccjjhamY.s: 致命错误： can't close CMakeCCompilerId.o: 不支持的操作
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-7 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-7 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+/usr/bin/ld: 最后的链结失败: 不支持的操作
+collect2: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-7 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: 最后的链结失败: 不支持的操作
+collect2: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-7 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+/tmp/ccI9sFjL.s: Assembler messages:
+/tmp/ccI9sFjL.s: 致命错误： can't write 142 bytes to section .text of CMakeCCompilerId.o: '不支持的操作'
+/tmp/ccI9sFjL.s: 致命错误： can't close CMakeCCompilerId.o: 不支持的操作
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-7 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-7 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+/usr/bin/ld: 最后的链结失败: 不支持的操作
+collect2: error: ld returned 1 exit status
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+x86_64-linux-gnu-gcc-7: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+x86_64-linux-gnu-gcc-7: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-g++-7 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: 最后的链结失败: 不支持的操作
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-g++-7 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+/tmp/ccpq8cFC.s: Assembler messages:
+/tmp/ccpq8cFC.s: 致命错误： can't write 118 bytes to section .text of CMakeCXXCompilerId.o: '不支持的操作'
+/tmp/ccpq8cFC.s: 致命错误： can't close CMakeCXXCompilerId.o: 不支持的操作
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-g++-7 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+x86_64-linux-gnu-g++-7: error: unrecognized command line option ‘--c++’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-g++-7 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+x86_64-linux-gnu-g++-7: error: unrecognized command line option ‘--ec++’; did you mean ‘-Weffc++’?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-g++-7 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: 最后的链结失败: 不支持的操作
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-g++-7 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+/tmp/ccYw1k7K.s: Assembler messages:
+/tmp/ccYw1k7K.s: 致命错误： can't write 118 bytes to section .text of CMakeCXXCompilerId.o: '不支持的操作'
+/tmp/ccYw1k7K.s: 致命错误： can't close CMakeCXXCompilerId.o: 不支持的操作
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-g++-7 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+x86_64-linux-gnu-g++-7: error: unrecognized command line option ‘--c++’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-g++-7 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+x86_64-linux-gnu-g++-7: error: unrecognized command line option ‘--ec++’; did you mean ‘-Weffc++’?
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+x86_64-linux-gnu-g++-7: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+x86_64-linux-gnu-g++-7: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /run/user/1000/gvfs/sftp:host=192.168.124.202/home/ubuntu/Project/src/costmap/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cd253/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cd253.dir/build.make CMakeFiles/cmTC_cd253.dir/build
+make[1]: 进入目录“/run/user/1000/gvfs/sftp:host=192.168.124.202/home/ubuntu/Project/src/costmap/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_cd253.dir/testCCompiler.c.o
+/usr/bin/x86_64-linux-gnu-gcc-7    -o CMakeFiles/cmTC_cd253.dir/testCCompiler.c.o   -c /run/user/1000/gvfs/sftp:host=192.168.124.202/home/ubuntu/Project/src/costmap/build/CMakeFiles/CMakeTmp/testCCompiler.c
+/tmp/ccoVMwXv.s: Assembler messages:
+/tmp/ccoVMwXv.s: 致命错误： can't write 19 bytes to section .text of CMakeFiles/cmTC_cd253.dir/testCCompiler.c.o: '不支持的操作'
+/tmp/ccoVMwXv.s: 致命错误： can't close CMakeFiles/cmTC_cd253.dir/testCCompiler.c.o: 不支持的操作
+CMakeFiles/cmTC_cd253.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_cd253.dir/testCCompiler.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_cd253.dir/testCCompiler.c.o] Error 1
+make[1]: 离开目录“/run/user/1000/gvfs/sftp:host=192.168.124.202/home/ubuntu/Project/src/costmap/build/CMakeFiles/CMakeTmp”
+Makefile:126: recipe for target 'cmTC_cd253/fast' failed
+make: *** [cmTC_cd253/fast] Error 2
+
+
